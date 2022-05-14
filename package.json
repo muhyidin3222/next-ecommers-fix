@@ -20,7 +20,7 @@
     "next": "^10.0.3",
     "next-redux-wrapper": "^6.0.2",
     "rc-slider": "^9.3.1",
-    "react": "16.13.1",
+    "react": "17.0.2",
     "react-dom": "16.13.1",
     "react-hook-form": "^6.8.2",
     "react-rater": "^5.1.1",
@@ -39,5 +39,8 @@
   "devDependencies": {
     "fslightbox-react": "^1.5.0",
     "node-fetch": "^2.6.1"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx"
   }
 }
